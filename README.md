@@ -6,7 +6,7 @@
     rdkit 2022.03.2
 
 # Data preparation
-1. Unpacking data.zip;
+1. Unpacking data.zip.
 2. The target molecule graphs data is downloaded from https://drive.google.com/open?id=1rqAopf_IaH3jzFkwXObQ4i-6bUUwizCv. Move the downloaded folders to the directory of each dataset. 
 
     * /data/davis/aln/
