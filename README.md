@@ -14,6 +14,6 @@
     * /data/kiba/aln/
     * /data/kiba/pconsc4
 
-# Runing
+# Running
         python inference.py --cuda 0
 
