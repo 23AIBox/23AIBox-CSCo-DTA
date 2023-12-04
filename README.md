@@ -9,10 +9,10 @@
 1. Unpacking data.zip;
 2. The target molecule graphs data is downloaded from https://drive.google.com/open?id=1rqAopf_IaH3jzFkwXObQ4i-6bUUwizCv. Move the downloaded folders to the directory of each dataset. 
 
-* /data/davis/aln/
-* /data/davis/pconsc4/
-* /data/kiba/aln/
-* /data/kiba/pconsc4
+    * /data/davis/aln/
+    * /data/davis/pconsc4/
+    * /data/kiba/aln/
+    * /data/kiba/pconsc4
 
 # Runing
         python inference.py --cuda 0
