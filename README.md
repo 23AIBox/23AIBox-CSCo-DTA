@@ -1,3 +1,6 @@
+# CSCo-DTA
+    The CSCo-DTA is a novel cross-scale graph contrastive learning approach for drug-target binding affinity prediction. The proposed model utilizes graph convolutional network encoders to extract molecule-scale and network-scale features of drugs and targets. A contrastive learning framework is employed to maximize the mutual information between the features of two scales and explore their potential relationship.
+
 # Dependency
     python 3.9.12
     numpy 1.21.5
@@ -15,5 +18,4 @@
     * /data/kiba/pconsc4
 
 # Running
-        python inference.py --cuda 0
-
+    python inference.py --cuda 0
